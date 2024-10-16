@@ -1,0 +1,9 @@
+{
+    "/api": {
+      "target": "http://Creation-CRUD.mssql.somee.com",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    }
+  }
+  
