@@ -4,7 +4,6 @@ import { FormBuilder, FormGroup, ReactiveFormsModule, Validators } from '@angula
 import { Person, PersonBody } from './shared/models/person';
 import { HttpClient } from '@angular/common/http';
 import { PersonService} from './shared/services/person.service'
-import { state } from '@angular/animations';
 
 @Component({
   selector: 'app-root',
