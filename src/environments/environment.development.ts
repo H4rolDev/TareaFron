@@ -1,3 +1,3 @@
 export const environment = {
-    backendBaseUrl: "http://tareasabadolist.somee.com",
+    backendBaseUrl: "https://tareasabadolist.somee.com",
 };
